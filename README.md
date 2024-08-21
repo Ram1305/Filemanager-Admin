@@ -1,19 +1,7 @@
 # admin
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+FileManager Admin UI is a sleek and user-friendly mobile application built with Flutter. Designed for efficiency and ease of use, it features a modern, adaptive layout that fits all screen sizes. Manage and organize files effortlessly with a comprehensive dashboard that offers real-time file status, advanced search capabilities, and intuitive file operations. Enjoy dynamic interactions and a visually appealing interface that enhances your administrative tasks, making file management both streamlined and effective.',
+  
 
 ![admin](https://github.com/user-attachments/assets/3f0805d3-b88d-4461-8c1b-89718341021d)
 ![WhatsApp Image 2024-08-17 at 3 26 30 PM-portrait](https://github.com/user-attachments/assets/2bbb72e9-3cd5-48a1-870d-fa5280e898c1)
